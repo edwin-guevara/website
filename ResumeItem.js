@@ -7,7 +7,6 @@ export default function ResumeItem({
   children
 }) {
   return (
-    // Paste the resume item <section> HTML here over lines 10 and 11
     <section>
       <h3>
         {name} | {dept}
