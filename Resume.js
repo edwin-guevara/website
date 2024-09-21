@@ -15,7 +15,6 @@
             Developed widgets using React and Less to display patient information.
          </li>
        </ResumeItem>
-       <ul></ul>
      </>
    );
  }
